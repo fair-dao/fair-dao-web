@@ -1,0 +1,24 @@
+{
+  "ver": 1000,
+  "lang": "中文",
+  "kvs": {
+    "page-title": "FAIR DAO｜脱中心化自治組織",
+    "page-des": "FAIR DAOは公開的で透明な脱中心化自治組織である｜ユーザー、開発者、設計者、および$FAIR保有者はガバナンスに参加でき、生態を共同で構築し、FAIR DAOの持続的な発展を推進し、すべての生態参加者に共通の利益をもたらす",
+    "code-license": "コード承認：",
+    "content-license": "Webサイトのコンテンツ認可：",
+    "nav-items": [
+      {
+        "name": "オープンソースプロジェクト",
+        "_link": "index.html?page=opensource"
+      },
+      {
+        "name": "貢献への参加",
+        "_link": "/contributor.html"
+      },
+      {
+        "name": "ホワイトペーパー",
+        "_link": "/whitepaper.html"
+      }
+    ]
+  }
+}

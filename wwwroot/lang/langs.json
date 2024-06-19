@@ -1,0 +1,36 @@
+{
+  "ProjectName": "fair dao web",
+  "TgtLangs": [
+    {
+      "Name": "en",
+      "DisplayName": "English",
+      "EnglishName": "English (United States)",
+      "SrcName": "英语"
+    },
+    {
+      "Name": "fr",
+      "DisplayName": "français",
+      "EnglishName": "French (France)",
+      "SrcName": "法语"
+    },
+    {
+      "Name": "ja",
+      "DisplayName": "日本語",
+      "EnglishName": "Japanese (Japan)",
+      "SrcName": "日语"
+    },
+    {
+      "Name": "ru",
+      "DisplayName": "русский",
+      "EnglishName": "Russian (Russia)",
+      "SrcName": "俄语"
+    },
+    {
+      "Name": "zh",
+      "DisplayName": "中文",
+      "EnglishName": "Chinese (China)",
+      "SrcName": "中文"
+    }
+  ],
+  "SrcLang": "zh"
+}

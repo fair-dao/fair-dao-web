@@ -1,0 +1,218 @@
+﻿
+html {
+    font-size: 16px;
+}
+
+body {
+    margin: 0px;
+    background-size: 100% auto;
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+.body {
+    min-height: calc(100vh - 10rem);
+}
+
+
+.donate {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4rem;
+}
+
+.subpage {
+    display: none;
+}
+
+[data-bind-if], [data-bind], [data-bind-for]>* {
+    display: none !important;
+}
+
+.logo img {
+    height: 2.25rem;
+    max-height: 2.25rem !important;
+    width: 2.25rem;
+}
+
+
+.tpl {
+    display: none !important;
+}
+
+.logo-title {
+    font-size: 1.5rem;
+    padding: 0 0.75rem 0 0.5rem;
+    font-weight: 900;
+    font-family: montserrat;
+}
+
+.hero .title {
+    padding-bottom: 0.75rem;
+}
+
+.subtitle {
+}
+
+#Title {
+    padding: 0.25rem 0;
+}
+
+.dao {
+    display: flex;
+    align-content: space-around;
+    flex-direction: row;
+    align-items: center;
+    padding: 2rem 0 2rem 0;
+    background-color: #b9d6f2;
+}
+
+    .dao > div > div {
+        padding: 0 5vw;
+    }
+
+    .dao > div:first-child {
+        text-align: left;
+        width: 35%;
+    }
+
+    .dao .dao-des {
+        min-height: 10rem;
+    }
+
+    .dao > div:last-child {
+        text-align: right;
+        width: 35%;
+    }
+
+    .dao .mid {
+        width: 30%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+.content .items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.content .item {
+    flex: auto;
+    flex-basis: calc(33.33% );
+    padding: 1rem;
+    text-align: justify;
+}
+
+.content .item-link a {
+    padding: 0.25rem;
+}
+
+.content .new {
+    color: blue;
+}
+
+.content .item-name {
+    font-weight: 700;
+}
+
+.content .item-detail {
+    font-size: 0.9em;
+}
+
+    .content .item-detail span {
+        padding: 0 0.25rem;
+        display: inline-block;
+    }
+
+.tabs-content > div {
+    display: none;
+    padding: 0 2rem;
+}
+
+    .tabs-content > div.is-active {
+        display: block;
+    }
+
+.navbar-end img, .bd-navbar-mobile-icon img {
+    width: 2.15rem;
+    height: auto;
+    max-height: unset;
+}
+
+
+.footer {
+    background-color: var(--bulma-scheme-main);
+    --bulma-footer-padding: 3rem 1.5rem 3rem;
+    background: var(--bulma-background);
+    color: var(--bulma-text-weak);
+    position: relative;
+    z-index: 1;
+}
+
+.disclaimer {
+    margin-bottom: 2rem;
+}
+
+/*----------- whitepaper  -------------*/
+.whitepaper {
+    padding: 2rem 3rem;
+    line-height: 2rem;
+}
+
+    .whitepaper .item {
+        padding:1.5rem;
+    }
+    .whitepaper .item-title
+    {
+        padding:1rem 0;
+    }
+    .whitepaper br{
+        padding: 1.5rem;
+    }
+
+    @media screen and (min-width: 1024px) {
+        #main {
+    }
+}
+
+@media screen and (max-width: 744px) {
+    html {
+        font-size: 12px;
+    }
+
+    .content .items {
+        display: unset;
+    }
+
+    .dao {
+        display: block;
+    }
+
+        .dao .mid {
+            display: none;
+        }
+
+        .dao > div {
+            width: 100vw !important;
+        }
+
+        .dao * {
+            text-align: left !important;
+        }
+
+        .dao .dao-des {
+            min-height: unset;
+        }
+
+
+        .dao > div:last-child {
+            padding-top: 1.5rem;
+        }
+}

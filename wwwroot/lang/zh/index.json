@@ -1,0 +1,41 @@
+﻿{
+  "ver": 1000,
+  "lang": "中文",
+  "kvs": {
+    "subtitle": "公开透明的去中心化自治组织",
+    "subdecription": "所有FAIR代币的持有者均可参与治理，共建DeFi生态，推动FAIR DAO持续发展，让所有生态参与者共同受益.",
+    "page-title-opensource": "开源项目",
+    "page-description-opensource": "我们开源了大部分的代码。如果您有闲余时间，可以加入我们，共同促进FAIR DAO 的发展。",
+    "dao-1": "去中心化，公开治理",
+    "dao-1-des": "FAIR DAO协议由去中心化的全球社区进行管理，所有FAIR代币持有者、开发者、生态参与者均可对社区治理提出想法、意见。",
+    "dao-2": "自由捐赠，共建生态",
+    "dao-2-des": "生态参与者通过捐赠获取信用，构建公平应用，共创繁荣生态。",
+    "dao-3": "DeFi &amp; CeFi，权益共享",
+    "dao-3-des": "Fair代币持有者除了享受FAIR DAO的生态权益，也可以全方位参与到DeFi &amp; CeFi的生态体系。",
+    "dao-4": "链上透明，安全高效",
+    "dao-4-des": "FAIR DAO所有的投票均在链上产生，任何人不可进行篡改。从而保证治理的公平性、效率和透明度。",
+    "open-items": [
+      {
+        "name": "Fair 框架",
+        "des": "一个可扩展的客户端应用开发框架，主要语言为 C#；支持主流移动端、PC端、以及Web 浏览器，APP使用 MAUI Blazor 技术；web端采用Blzaor Webassembly 技术。",
+        "_link": "https://github.com/fair-dao/fair"
+      },
+      {
+        "name": "Fair 钱包",
+        "des": "Fair Framework 下开发的一个Web3钱包插件，目前支持波场钱包和以太坊钱包",
+        "_link": "https://github.com/fair-dao/fair-wallet"
+      },
+      {
+        "name": "Fair DAO 官方网站",
+        "des": "当前网站的源代码",
+        "_link": "https://github.com/fair-dao/fair-dao-web"
+      },
+      {
+        "name": "Fair DAO 智能合约库",
+        "des": "Fair DAO 智能合约集合",
+        "_link": "https://github.com/fair-dao/fair-contracts"
+      }
+    ]
+
+  }
+}

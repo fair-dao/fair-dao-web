@@ -1,0 +1,26 @@
+{
+  "ver": 1000,
+  "lang": "中文",
+  "kvs": {
+    "page-title": "Participate in contributions",
+    "page-description": "Any individual (including but not limited to programmers, designers, testers, translators, etc.) or organization (including but not limited to physical enterprises, Internet freedom groups, etc.) can participate in the construction of FAIR DAO projects and become a contributor to FAIR DAO by burning their own wisdom and time. Contributors are the core of FAIR DAO, providing a continuous source of motivation for its development. Based on the difficulty level, code volume, and code quality of the task, contributors can receive a corresponding amount of FAIR token rewards. Therefore, contributors are also providers of FAIR token value.",
+    "worker-items": [
+      {
+        "name": "Programming",
+        "des": "Responsible for platform framework and functional module development"
+      },
+      {
+        "name": "design",
+        "des": "Mainly responsible for website design, icon and poster design, APP interface design, etc. related to platform projects"
+      },
+      {
+        "name": "Document translation and project localization",
+        "des": "Mainly responsible for developing document translation and project localization work"
+      },
+      {
+        "name": "Blockchain development",
+        "des": "Mainly responsible for the development of blockchain smart contracts and the implementation of platform integration work"
+      }
+    ]
+  }
+}

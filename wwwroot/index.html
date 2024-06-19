@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="FAIR DAO|FAIR">
+    <title>
+        FAIR DAO
+    </title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.0/css/bulma.min.css">
+    <link href="fair.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <div id="header"></div>
+        <div class="body">
+            <div data-bind-if="page-title-{subpage}" style="padding:1rem;">
+
+                <article class="message is-link">
+                    <div class="message-header">
+                        <p data-bind="page-title-{subpage}"></p>
+                    </div>
+                    <div class="message-body" data-bind="page-description-{subpage}">
+                    </div>
+                </article>
+            </div>
+
+            <main class="main-content">
+            </main>
+        </div>
+        <footer id="footer" class="footer">
+   
+        </footer>
+
+    </div>
+    <div id="index" class="subpage">
+        <section class="hero" style="background-color:#e2f7ee;text-align:center;">
+            <div class="hero-body">
+                <div class="container">
+                    <div style="font-size: 3rem; color: #0094ff; width: 300px; margin: 1rem auto 0.75rem auto; font-weight: 900; font-family: montserrat;">FAIR DAO</div>
+                    <div>
+                        <h1 class="title  is-3" data-bind="subtitle">
+                        </h1>
+                        <div class="subtitle is-5" data-bind="subdecription">
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </section>
+
+        <div class="dao">
+            <div>
+                <div>
+                    <p class="title is-4" data-bind="dao-1"></p>
+                    <div class="dao-des" data-bind="dao-1-des"></div>
+                </div>
+                <br />
+                <div>
+                    <p class="title is-4" data-bind="dao-2"></p>
+                    <div class="dao-des" data-bind="dao-2-des"></div>
+                </div>
+
+            </div>
+            <div class="mid">
+                <img src="/logo.svg" alt="" style="width:75%;">
+            </div>
+            <div>
+                <div>
+                    <p class="title is-4" data-bind="dao-3"></p>
+                    <div class="dao-des" data-bind="dao-3-des"></div>
+                </div>
+                <br />
+                <div>
+                    <p class="title is-4" data-bind="dao-4"></p>
+                    <div class="dao-des" data-bind="dao-4-des"></div>
+                </div>
+
+            </div>
+        </div>
+
+
+    </div>
+    <div id="opensource" class="subpage">
+        <div class="content">
+            <div class="items" data-bind-for="open-items">
+                <div class="item">
+                    <div class="item-title is-size-4"><a target="_blank" href="{{open-items._link}}">{{open-items.name}}</a></div>
+                    <div class="item-des">{{open-items.des}}</div>
+                </div>
+            </div>
+       
+        </div>
+    </div>
+    
+    <script src="fair.js"></script>
+</body>
+
+</html>

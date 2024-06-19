@@ -1,0 +1,336 @@
+{
+  "VerPairs": {
+    "a1b1c453331ec32435fee8852ebbddd5": {
+      "DstLang": "ru",
+      "DstVer": "dcf0",
+      "SrcVer": "1877"
+    },
+    "9ee7789397b6029e65faa518be8d44e3": {
+      "DstLang": "ru",
+      "DstVer": "98b8",
+      "SrcVer": "1919"
+    },
+    "52f5ae20cabbe9933ba78e9cd275955e": {
+      "DstLang": "ru",
+      "DstVer": "39e5",
+      "SrcVer": "ab6e"
+    },
+    "3fb1a8212fc47fb6c27206e202ca3d81": {
+      "DstLang": "ru",
+      "DstVer": "aa70",
+      "SrcVer": "91e0"
+    },
+    "0aaa22b2eae01a784c75bdd46ba93c43": {
+      "DstLang": "ru",
+      "DstVer": "ccff",
+      "SrcVer": "3cea"
+    }
+  },
+  "WarnPairs": {
+    "8c0281ebe07507212c9ea39382057e4d": {
+      "DstLang": "ru",
+      "DstVer": "aa70",
+      "SrcVer": "91e0"
+    },
+    "643c77d4ecab15ee2db1c0204489e94f": {
+      "DstLang": "ru",
+      "DstVer": "f70d",
+      "SrcVer": "3f04"
+    },
+    "3fb1a8212fc47fb6c27206e202ca3d81": {
+      "DstLang": "fr",
+      "DstVer": "f372",
+      "SrcVer": "91e0"
+    },
+    "52f5ae20cabbe9933ba78e9cd275955e": {
+      "DstLang": "fr",
+      "DstVer": "39fe",
+      "SrcVer": "ab6e"
+    },
+    "a1b1c453331ec32435fee8852ebbddd5": {
+      "DstLang": "fr",
+      "DstVer": "679d",
+      "SrcVer": "1877"
+    },
+    "9ee7789397b6029e65faa518be8d44e3": {
+      "DstLang": "fr",
+      "DstVer": "d2a7",
+      "SrcVer": "1919"
+    },
+    "34e6b9c919e4600b6d1bd2211ae62dbe": {
+      "DstLang": "ru",
+      "DstVer": "1549",
+      "SrcVer": "af1d"
+    },
+    "690559940a62816ddb6ab95deb033ff5": {
+      "DstLang": "ru",
+      "DstVer": "b631",
+      "SrcVer": "bed3"
+    },
+    "f4dfa385eb425a37b215fefa5bcf3aa4": {
+      "DstLang": "en",
+      "DstVer": "ae9d",
+      "SrcVer": "5812"
+    },
+    "8cdb19734ea28f3cedb816c2c3d4ec1e": {
+      "DstLang": "en",
+      "DstVer": "eb6b",
+      "SrcVer": "a168"
+    },
+    "e74928795ad5c6e3fc4e5955b405b6fc": {
+      "DstLang": "ru",
+      "DstVer": "35a7",
+      "SrcVer": "16a0"
+    },
+    "cbeae8a6ce76cab1fc748cea2c75b65d": {
+      "DstLang": "ru",
+      "DstVer": "945c",
+      "SrcVer": "a341"
+    },
+    "5d429f25992fe7bbdd5c049b97341690": {
+      "DstLang": "ru",
+      "DstVer": "8d25",
+      "SrcVer": "e6db"
+    },
+    "8a008d13ee0e9987076713127d4c64b0": {
+      "DstLang": "ru",
+      "DstVer": "605a",
+      "SrcVer": "d7c7"
+    },
+    "189f521fab90dd5d5bc7ea12b9c99ac6": {
+      "DstLang": "ru",
+      "DstVer": "4790",
+      "SrcVer": "0e1b"
+    },
+    "304de92b30edb5e2e43a8157a0fda298": {
+      "DstLang": "ru",
+      "DstVer": "7bea",
+      "SrcVer": "d180"
+    },
+    "64d678a7e30c6fe31289662fb969cf31": {
+      "DstLang": "ru",
+      "DstVer": "83f1",
+      "SrcVer": "8880"
+    },
+    "862987ec8aff6e7381300f2d14a3b26f": {
+      "DstLang": "ru",
+      "DstVer": "b27d",
+      "SrcVer": "e217"
+    },
+    "33cbc189747d5ef22b58ccb2b66f16aa": {
+      "DstLang": "ru",
+      "DstVer": "abd0",
+      "SrcVer": "3679"
+    },
+    "5bf8039a6ec07f691862231b785958b7": {
+      "DstLang": "ru",
+      "DstVer": "48fb",
+      "SrcVer": "0401"
+    },
+    "2563da8e375bade5c2e6267e88150283": {
+      "DstLang": "ru",
+      "DstVer": "15fa",
+      "SrcVer": "6c5b"
+    },
+    "5bc8b5e026054d2181ca80646e070b75": {
+      "DstLang": "ru",
+      "DstVer": "39e5",
+      "SrcVer": "ab6e"
+    },
+    "090fbe9828e270b3ff2f32aecc966f04": {
+      "DstLang": "ru",
+      "DstVer": "7a02",
+      "SrcVer": "595f"
+    },
+    "607bf04ad97661dd7195fbd182b74628": {
+      "DstLang": "en",
+      "DstVer": "7ed2",
+      "SrcVer": "abb8"
+    },
+    "ee6b73f21cbb70d19cc9a420a42d33de": {
+      "DstLang": "en",
+      "DstVer": "12f7",
+      "SrcVer": "ee36"
+    },
+    "639b6168fceeb08bafdf98e0a462fb48": {
+      "DstLang": "en",
+      "DstVer": "2161",
+      "SrcVer": "81c1"
+    },
+    "063a84fb9bc50bd9dc7fc9223b8491f5": {
+      "DstLang": "en",
+      "DstVer": "8c0a",
+      "SrcVer": "29da"
+    },
+    "13225859b6ecd28f27be4e8983e10d1b": {
+      "DstLang": "en",
+      "DstVer": "001e",
+      "SrcVer": "ce7c"
+    },
+    "14b4be0484ab9e86667f07b3c634ffaa": {
+      "DstLang": "en",
+      "DstVer": "cc2a",
+      "SrcVer": "cd37"
+    },
+    "a2544cddaecef294d105acfb2eea9132": {
+      "DstLang": "en",
+      "DstVer": "48ba",
+      "SrcVer": "b233"
+    },
+    "6c2521341bb9908fb633fc6952860e83": {
+      "DstLang": "en",
+      "DstVer": "5098",
+      "SrcVer": "2c84"
+    },
+    "92eb2a42c68c8f47db77d4b76a1c5521": {
+      "DstLang": "en",
+      "DstVer": "b431",
+      "SrcVer": "3f3a"
+    },
+    "a7e09769a6cdb67e3549291440c394fa": {
+      "DstLang": "en",
+      "DstVer": "225b",
+      "SrcVer": "3d3e"
+    },
+    "dc4398282ece341ec2f4ea43b103dd8f": {
+      "DstLang": "en",
+      "DstVer": "74ad",
+      "SrcVer": "da53"
+    },
+    "bb01a615e4e0c24b6e34eaf5af0c36a2": {
+      "DstLang": "en",
+      "DstVer": "b03e",
+      "SrcVer": "a5b5"
+    },
+    "6c7a8bd625917a552546d9a11eff9202": {
+      "DstLang": "en",
+      "DstVer": "fd45",
+      "SrcVer": "f26e"
+    },
+    "80260cb4e2fb9dc7817158aa124df2bc": {
+      "DstLang": "en",
+      "DstVer": "b7a4",
+      "SrcVer": "a3c4"
+    },
+    "641415f1133c25fc6c6e6729dae19515": {
+      "DstLang": "en",
+      "DstVer": "0d28",
+      "SrcVer": "f444"
+    },
+    "e67648d7e2a5022a3f3ef3f47c5b1632": {
+      "DstLang": "en",
+      "DstVer": "6201",
+      "SrcVer": "eaa4"
+    },
+    "9a30365e4e2c4053579484f4935fc5fd": {
+      "DstLang": "en",
+      "DstVer": "00de",
+      "SrcVer": "8027"
+    },
+    "877898dd03f219d4e949e837487b9386": {
+      "DstLang": "en",
+      "DstVer": "24b4",
+      "SrcVer": "9e23"
+    },
+    "ade3c72966f41773b7064e5d49f82a96": {
+      "DstLang": "en",
+      "DstVer": "72c1",
+      "SrcVer": "40ff"
+    },
+    "68f9a92facc7e7c495c5075fd4e6ef10": {
+      "DstLang": "ru",
+      "DstVer": "f362",
+      "SrcVer": "ec74"
+    },
+    "309b1aa651ba32bcf57dae852374f1c1": {
+      "DstLang": "ru",
+      "DstVer": "0e76",
+      "SrcVer": "d083"
+    },
+    "603548646a914b2bc2680d46272bed73": {
+      "DstLang": "ru",
+      "DstVer": "95c1",
+      "SrcVer": "3f3a"
+    },
+    "582d7af6ab89e76daf533f5d717c95eb": {
+      "DstLang": "ru",
+      "DstVer": "6e87",
+      "SrcVer": "3d3e"
+    },
+    "23b932fa21db48d7f5406d400f94c814": {
+      "DstLang": "ru",
+      "DstVer": "aa70",
+      "SrcVer": "91e0"
+    },
+    "a92b9b82b0580223744044c91ecfce4a": {
+      "DstLang": "ru",
+      "DstVer": "a65c",
+      "SrcVer": "7b5b"
+    },
+    "00119ef2b9b2cface99103d768fa22d2": {
+      "DstLang": "ru",
+      "DstVer": "411a",
+      "SrcVer": "6d6a"
+    },
+    "6d2623347f29087d5eaa816741a10f61": {
+      "DstLang": "ru",
+      "DstVer": "bdce",
+      "SrcVer": "ef37"
+    },
+    "51fefdb163f6e185a55651a6204efacd": {
+      "DstLang": "ru",
+      "DstVer": "9308",
+      "SrcVer": "0e6c"
+    },
+    "e696fee5759bff2d53a2fff97f95b246": {
+      "DstLang": "ru",
+      "DstVer": "0d4e",
+      "SrcVer": "5766"
+    },
+    "c350b5071db5b12196fcc74786f6ae2b": {
+      "DstLang": "ru",
+      "DstVer": "97f7",
+      "SrcVer": "2cae"
+    },
+    "f494247b7554009af1f84a5814106496": {
+      "DstLang": "ru",
+      "DstVer": "c3e4",
+      "SrcVer": "1331"
+    },
+    "edc77b077581d5ee7c1108f4a0cdd466": {
+      "DstLang": "ru",
+      "DstVer": "0510",
+      "SrcVer": "24fd"
+    },
+    "fbeb3676d0e8d532165f71352255fe31": {
+      "DstLang": "ru",
+      "DstVer": "cc0b",
+      "SrcVer": "5155"
+    },
+    "d71a1dbaa692d6d7f51f1bca84966519": {
+      "DstLang": "ru",
+      "DstVer": "a26b",
+      "SrcVer": "9304"
+    },
+    "c0e72b8c54ab54db989d07ba8ec94d48": {
+      "DstLang": "ru",
+      "DstVer": "876a",
+      "SrcVer": "fcfe"
+    },
+    "b8d9a18531f3783a708b0f7b4177789a": {
+      "DstLang": "ru",
+      "DstVer": "a724",
+      "SrcVer": "81bd"
+    },
+    "f88587d1003af7f90b671d16ccb2d021": {
+      "DstLang": "ru",
+      "DstVer": "100a",
+      "SrcVer": "5812"
+    },
+    "a8b56802169d2c5b4983f5f4714c0d0c": {
+      "DstLang": "ru",
+      "DstVer": "300d",
+      "SrcVer": "70d5"
+    }
+  }
+}

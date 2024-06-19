@@ -1,0 +1,40 @@
+{
+  "ver": 1000,
+  "lang": "中文",
+  "kvs": {
+    "subtitle": "Organisation autonome décentralisée ouverte et transparente",
+    "subdecription": "Tous les détenteurs de fair tokens peuvent participer à la gouvernance, construire ensemble l'écologie defi et faire progresser le développement continu de fair Dao au profit de tous les acteurs écologiques.",
+    "page-title-opensource": "Projets open source",
+    "page-description-opensource": "Nous avons ouvert la plupart de notre Code. Si vous avez du temps libre, rejoignez - nous pour contribuer ensemble au développement de fair Dao.",
+    "dao-1": "Décentralisation, gouvernance ouverte",
+    "dao-1-des": "Le Protocole Fair Dao est géré par une communauté mondiale décentralisée où tous les détenteurs de jetons Fair, les développeurs et les éco - acteurs peuvent soumettre des idées, des commentaires sur la gouvernance de la communauté.",
+    "dao-2": "Donation libre, co - construction écologique",
+    "dao-2-des": "Les participants écologiques obtiennent du crédit par le biais de dons, construisent des applications équitables et créent ensemble une écologie prospère.",
+    "dao-3": "DeFi &amp; CeFi， Partage des intérêts",
+    "dao-3-des": "Les détenteurs de fair tokens, en plus de bénéficier de l'intérêt écologique de fair Dao, peuvent également participer à defi & amp; L’écosystème du cefi.",
+    "dao-4": "Transparent sur la chaîne, sûr et efficace",
+    "dao-4-des": "Fair Dao tous les votes sont générés sur la chaîne et ne peuvent être altérés par quiconque. Garantissant ainsi l'équité, l'efficacité et la transparence de la gouvernance.",
+    "open-items": [
+      {
+        "name": "Le cadre Fair",
+        "des": "Un Framework de développement d'applications client extensible avec le langage principal c \\; Prise en charge des principaux terminaux mobiles, PC et navigateurs Web, les applications utilisant la technologie Maui blazor; Le côté Web utilise la technologie blzaor webassembly.",
+        "_link": "https://github.com/fair-dao/fair"
+      },
+      {
+        "name": "Fair portefeuille",
+        "des": "Un plugin de portefeuille web3 développé sous Fair Framework qui prend actuellement en charge les portefeuilles wavefield et ethereum",
+        "_link": "https://github.com/fair-dao/fair-wallet"
+      },
+      {
+        "name": "Le site officiel de fair Dao",
+        "des": "Code source du site actuel",
+        "_link": "https://github.com/fair-dao/fair-dao-web"
+      },
+      {
+        "name": "Bibliothèque de contrats intelligents Fair Dao",
+        "des": "Collection de contrats intelligents Fair Dao",
+        "_link": "https://github.com/fair-dao/fair-contracts"
+      }
+    ]
+  }
+}

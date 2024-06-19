@@ -1,0 +1,40 @@
+{
+  "ver": 1000,
+  "lang": "中文",
+  "kvs": {
+    "subtitle": "オープンで透明な脱中心化自治組織",
+    "subdecription": "すべてのFAIRトークンの所有者はガバナンスに参加し、DeFi生態を共同で建設し、FAIR DAOの持続的な発展を推進し、すべての生態参加者に共通の利益をもたらすことができる。",
+    "page-title-opensource": "オープンソースプロジェクト",
+    "page-description-opensource": "私たちはほとんどのコードをオープンソースしました。暇な時間があれば、私たちに参加して、FAIR DAOの発展を促進することができます。",
+    "dao-1": "脱センター化、公開ガバナンス",
+    "dao-1-des": "FAIR DAOプロトコルは非中心化されたグローバルコミュニティによって管理され、すべてのFAIRトークン所有者、開発者、生態参加者はコミュニティガバナンスに対してアイデア、意見を提出することができる。",
+    "dao-2": "自由に寄付し、共同で生態を構築する",
+    "dao-2-des": "生態参加者は寄付を通じて信用を得て、公平な応用を構築し、共に繁栄した生態を創造する。",
+    "dao-3": "DeFi &amp; CeFi，持分共有",
+    "dao-3-des": "Fairトークン保有者は、FAIR DAOの生態的権益を享受するだけでなく、DeFi&amp ;CeFiの生態系。",
+    "dao-4": "チェーン上が透明で、安全で効率的",
+    "dao-4-des": "FAIR DAOのすべての投票はチェーン上で発生し、誰も改竄をしてはならない。そのため、ガバナンスの公平性、効率、透明性を保証する。",
+    "open-items": [
+      {
+        "name": "Fairフレーム",
+        "des": "拡張可能なクライアントアプリケーション開発フレームワーク、主要言語はC#;主流のモバイル端末、PC端末、及びWebブラウザをサポートし、APPはMAUI Blazor技術を使用する、ウェブ側はBlzaor Webassembly技術を採用している。",
+        "_link": "https://github.com/fair-dao/fair"
+      },
+      {
+        "name": "フェアウォレット",
+        "des": "Fair Frameworkで開発されたWeb 3ウォレットプラグインで、現在は波場ウォレットとイーサ坊ウォレットに対応しています",
+        "_link": "https://github.com/fair-dao/fair-wallet"
+      },
+      {
+        "name": "フェアDAO公式サイト",
+        "des": "現在のWebサイトのソースコード",
+        "_link": "https://github.com/fair-dao/fair-dao-web"
+      },
+      {
+        "name": "Fair DAOインテリジェント契約ライブラリ",
+        "des": "Fair DAOスマート契約コレクション",
+        "_link": "https://github.com/fair-dao/fair-contracts"
+      }
+    ]
+  }
+}

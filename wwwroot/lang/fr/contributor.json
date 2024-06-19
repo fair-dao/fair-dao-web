@@ -1,0 +1,26 @@
+{
+  "ver": 1000,
+  "lang": "中文",
+  "kvs": {
+    "page-title": "Participation aux contributions",
+    "page-description": "Toute personne (y compris, mais sans s’y limiter, les programmeurs, les concepteurs, les Testeurs, les traducteurs, etc.) ou organisation (y compris, mais sans s’y limiter, les entreprises physiques, les groupes de liberté Internet, etc.) peut contribuer à Fair Dao en brûlant son intelligence et son temps pour participer à la construction du projet Fair Dao. Les contributeurs sont au cœur de fair Dao et fournissent un flux constant de motivation pour le développement de fair Dao. En fonction de la difficulté de la tâche, de la quantité de code, ainsi que de la qualité du Code, etc., les contributeurs peuvent recevoir un nombre correspondant de récompenses Fair token et, par conséquent, les contributeurs sont également des fournisseurs de valeur Fair token.",
+    "worker-items": [
+      {
+        "name": "Conception du programme",
+        "des": "Responsable du développement du cadre de la plateforme et des modules fonctionnels"
+      },
+      {
+        "name": "Le design",
+        "des": "Principalement responsable de la conception web liée au projet de plate - forme, conception d'affiches d'icônes, conception d'interface APP, etc."
+      },
+      {
+        "name": "Traduction de documents et localisation de projets",
+        "des": "Principalement responsable du développement de la traduction de documents ainsi que de la localisation de projets"
+      },
+      {
+        "name": "Développement blockchain",
+        "des": "Développement de contrats intelligents blockchain principalement négatifs et mise en œuvre du travail d'amarrage avec la plate - forme"
+      }
+    ]
+  }
+}

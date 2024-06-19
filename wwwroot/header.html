@@ -1,0 +1,33 @@
+﻿<nav class="navbar is-link" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+        <a class="navbar-item logo" href="/">
+            <img src="logo.svg" /><div class="logo-title">FAIR DAO</div>
+        </a>
+        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="dvnav">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+        </a>
+    </div>
+
+    <div id="dvnav" class="navbar-menu">
+        <div class="navbar-start" data-bind-for="nav-items">
+            <a class="navbar-item" href="{{nav-items._link}}">{{nav-items.name}}</a>
+        </div>
+        <a class="navbar-item" href="https://t.me/fair_dao" target="_blank">
+            <img src="telegram.svg" />
+        </a>
+        <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+                <img src="language.svg" />
+            </a>
+
+            <div class="navbar-dropdown lang">
+            </div>
+        </div>
+        <div class="navbar-item">
+            <div class="buttons">
+            </div>
+        </div>
+    </div>
+</nav>

@@ -1,0 +1,40 @@
+{
+  "ver": 1000,
+  "lang": "中文",
+  "kvs": {
+    "subtitle": "Open and transparent decentralized autonomous organizations",
+    "subdecription": "All FAIR token holders can participate in governance, jointly build the DeFi ecosystem, promote the sustainable development of FAIR DAO, and benefit all ecological participants",
+    "page-title-opensource": "Open source projects",
+    "page-description-opensource": "We have opened up most of the code. If you have free time, you can join us to promote the development of FAIR DAO together.",
+    "dao-1": "Decentralization and open governance",
+    "dao-1-des": "The FAIR DAO protocol is managed by a decentralized global community, where all FAIR token holders, developers, and ecosystem participants can provide ideas and opinions on community governance.",
+    "dao-2": "Free donation, co building ecology",
+    "dao-2-des": "Ecological participants obtain credit through donations, build fair applications, and jointly create a prosperous ecosystem.",
+    "dao-3": "DeFi &amp; CeFi， Equity sharing",
+    "dao-3-des": "Fair token holders can not only enjoy the ecological rights of FAIR DAO, but also fully participate in DeFi&amp; The ecosystem of CeFi.",
+    "dao-4": "Transparent on chain, secure and efficient",
+    "dao-4-des": "All votes of FAIR DAO are generated on the chain and cannot be tampered with by anyone. To ensure the fairness, efficiency, and transparency of governance.",
+    "open-items": [
+      {
+        "name": "Fair framework",
+        "des": "A scalable client application development framework, primarily in C #; Supports mainstream mobile, PC, and web browsers, with the app utilizing MAUI Blazor technology; The web end adopts Blzaor Webassembly technology.",
+        "_link": "https://github.com/fair-dao/fair"
+      },
+      {
+        "name": "Fair Wallet",
+        "des": "A Web3 wallet plugin developed under the Fair Framework, currently supporting Wave Field Wallet and Ethereum Wallet",
+        "_link": "https://github.com/fair-dao/fair-wallet"
+      },
+      {
+        "name": "Fair DAO official website",
+        "des": "The source code of the current website",
+        "_link": "https://github.com/fair-dao/fair-dao-web"
+      },
+      {
+        "name": "Fair DAO Smart Contract Library",
+        "des": "Fair DAO Smart Contract Collection",
+        "_link": "https://github.com/fair-dao/fair-contracts"
+      }
+    ]
+  }
+}

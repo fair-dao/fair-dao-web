@@ -1,0 +1,16 @@
+{
+  "ver": 1000,
+  "lang": "中文",
+  "kvs": {
+    "page-title": "Token governance",
+    "page-description": "All projects are developed, refined, and published by a community of global contributors who can receive Fair tokens and share the benefits brought by FAIR DAO",
+    "dao-1": "Decentralization and open governance",
+    "dao-1-des": "The FAIR DAO protocol is managed by a decentralized global community, where all FAIR token holders, developers, and partners can provide ideas and opinions on community governance.",
+    "dao-2": "Liquidity donations to jointly build an ecosystem",
+    "dao-2-des": "In the future, many ecological participants in FAIR DAO will donate some of their income to liquidity, and other partners and community members can also voluntarily contribute to co build the ecosystem.",
+    "dao-3": "DeFi &amp; CeFi， Equity sharing",
+    "dao-3-des": "Fair token holders can not only enjoy the ecological benefits of FAIR DAO, but also enjoy multiple benefits of Fair Galaxy, fully participating in DeFi&amp; The ecosystem of CeFi.",
+    "dao-4": "Transparent on chain, secure and efficient",
+    "dao-4-des": "All votes of FAIR DAO are generated on the chain and cannot be tampered with by anyone. To ensure the fairness, efficiency, and transparency of governance."
+  }
+}

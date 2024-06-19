@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Fair DAO ">
+    <title>
+        contributor
+    </title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.0/css/bulma.min.css">
+
+    <link href="fair.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <div id="header"></div>
+        <div class="body">
+            <div style="padding:1rem;">
+                <article class="message is-link">
+                    <div class="message-header">
+                        <p data-bind="page-title"></p>
+                    </div>
+                    <div class="message-body" data-bind="page-description">
+                    </div>
+                </article>
+            </div>
+
+            <main class="main-content">
+                <div class="content">
+                    <div class="items" data-bind-for="worker-items">
+                        <div class="item">
+                            <div class="item-title is-size-4">{{worker-items.name}}</div>
+                            <div class="item-des">{{worker-items.des}}</div>
+                        </div>
+                    </div>
+              
+                </div>
+            </main>
+
+        </div>
+        <footer id="footer" class="footer">
+        </footer>
+    </div>
+    <script src="fair.js"></script>
+</body>
+</html>
