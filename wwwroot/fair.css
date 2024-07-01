@@ -39,7 +39,9 @@ body {
     width: 2.25rem;
 }
 
-
+.mid svg{
+    width: 300px;
+}
 .tpl {
     display: none !important;
 }
