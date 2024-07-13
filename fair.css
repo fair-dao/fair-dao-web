@@ -29,7 +29,7 @@ body {
     display: none;
 }
 
-[data-bind-if], [data-bind], [data-bind-for]>* {
+[data-bind-if], [data-bind], [data-bind-for] > * {
     display: none !important;
 }
 
@@ -39,9 +39,10 @@ body {
     width: 2.25rem;
 }
 
-.mid svg{
+.mid svg {
     width: 300px;
 }
+
 .tpl {
     display: none !important;
 }
@@ -169,18 +170,19 @@ body {
 }
 
     .whitepaper .item {
-        padding:1.5rem;
+        padding: 4rem;
     }
-    .whitepaper .item-title
-    {
-        padding:1rem 0;
+
+    .whitepaper .item-title {
+        padding: 1rem 0;
     }
-    .whitepaper br{
+
+    .whitepaper br {
         padding: 1.5rem;
     }
 
-    @media screen and (min-width: 1024px) {
-        #main {
+@media screen and (min-width: 1024px) {
+    #main {
     }
 }
 
@@ -192,6 +194,11 @@ body {
     .content .items {
         display: unset;
     }
+
+    .whitepaper .item {
+        padding: 1rem;
+    }
+
 
     .dao {
         display: block;

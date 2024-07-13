@@ -4,19 +4,35 @@
   "kvs": {
     "page-title": "white paper",
     "page-description": "Fair DAO White Paper",
-    "philosophy-and-vision": "Concept and Vision",
-    "philosophy-and-vision-des": "With the continuous development and growth of the open source community, WEB3 ecosystem, and blockchain industry, a decentralized autonomous organization - FAIR DAO - has emerged. Its mission is to create an open, transparent, fair, just, free, and beautiful ecosystem. To achieve our mission, we need to call on people from all over the world to work together to create.",
-    "operations-governance": "Operations and Governance",
-    "operations-governance-des": "FAIR DAO (official website: https://fair-dao.com/ ）It is an open, transparent, fair, and highly decentralized autonomous organization managed by the FAIR Foundation. We are currently developing open-source projects for the FAIR series, including the FAIR framework and FAIR wallet. As long as there is enough free time, any individual (including but not limited to programmers, designers, testers, translators, etc.) or group (including but not limited to physical enterprises, Internet freedom groups, etc.) can participate and become a member of the foundation. The platform governance approach also adopts a decentralized model, which achieves autonomy by deploying various smart contracts on the public chain. FAIR token holders can propose and vote to participate in governance to promote platform development< The operation and governance of FAIR DAO have always been open and decentralized. We hope that enterprises and individuals with common aspirations can work together to build a prosperous FAIR ecosystem and achieve a better vision as soon as possible.",
-    "token-issuance": "Token issuance",
-    "token-issuance-des": "FAIR tokens are issued on the TRON network for decentralized governance. They are a type of token circulating within the FAIR ecosystem and reflect the value of the FAIR ecosystem. They can be used for consumption, guarantees, rewards, gifts, and more.",
-    "token-distribution": "Token allocation",
-    "token-distribution-des": "The initial total supply of FAIR tokens is 100000000000. The tokens are separately deposited into dedicated accounts, which are publicly available on the official website. This allocation ratio is biased towards foundations and ecological participants, providing strong guarantees for the long-term sustainable and healthy development of DAO, and enabling contributors and ecological participants to jointly promote the development of the blockchain industry< 20% of early contributors<br/>FAIR Foundation 40%<br/>Ecological Participant Donation Program 35%<br/>5% airdropped<br/>",
-    "user-restrictions": "Compliance and user restrictions",
-    "user-restrictions-des": "The FAIR token aims to promote the open and inclusive development of the blockchain ecosystem, and must comply with specific laws and regulatory guidelines. To ensure legal compliance, users from the United States and any countries sanctioned by the Office of Foreign Assets Control (OFAC) of the US Treasury are currently prohibited from accessing the FAIR DAO and FAIR tokens. These measures are all aimed at creating a safe and reliable environment for the FAIR DAO ecosystem, while also reflecting the core values that drive inclusivity and innovation in the blockchain industry.",
-    "governance-discussion": "Governance Discussion",
-    "governance-discussion-des": "You can initiate proposals and vote on ideas that have gained widespread support from the community. Community members can initiate preliminary proposals or discussions and have the opportunity to enter the formal FAIR DAO voting process. Preliminary evaluation or voting of proposals may not necessarily be implemented. The implementation of the proposal requires support from the development team and ultimately deployment by the administrator.",
-    "disclaimer": "Disclaimers",
-    "disclaimer-des": "FAIR DAO is a decentralized autonomous organization composed of all FAIR token holders. FAIR DAO is not a legal entity and is not intended for centralized management of FAIR token supply. FAIR tokens do not have inherent practicality prior to their issuance, however, in future FAIR DAO governance, token holders may force tokens to have practicality through voting. There is no predetermined roadmap for the inherent value of FAIR tokens. The FAIR token does not represent any claim to any real-world or financial assets, nor does it provide or guarantee return value. FAIR token holders should not expect any such demands or returns. FAIR tokens are not fundamentally different from typical meme coins, as they have no inherent value, intrinsic value, or investment value."
+    "items": [
+      {
+        "name": "Concept and Vision",
+        "detail": "With the continuous development of the open source community, WEB3 ecosystem, and blockchain industry, a decentralized autonomous organization - FAIR DAO - has emerged with the trend, with the mission of creating an open, transparent, fair, just, free and beautiful ecosystem. To achieve our mission, we need to call on ambitious individuals from all over the world to work together and create."
+      },
+      {
+        "name": "Operations and Governance",
+        "detail": "FAIR DAO (official website) https://fair-dao.com/ ）It is a highly decentralized autonomous organization that is open, transparent, fair, and just, managed by the FAIR Foundation. We are currently developing open-source projects for the FAIR series, including the FAIR framework and FAIR wallet. As long as there is enough free time, any individual (including but not limited to programmers, designers, testers, translators, etc.) or group (including but not limited to physical enterprises, Internet freedom groups, etc.) can participate and become a member of the foundation. The platform governance method also adopts a decentralized model, which achieves autonomy by deploying various smart contracts on the public chain. FAIR token holders can propose and vote to participate in governance to promote platform development< The operation and governance of FAIR DAO have always been open and decentralized. We hope that enterprises and individuals with common aspirations can work together to build a prosperous FAIR ecosystem and achieve a better vision as soon as possible."
+      },
+      {
+        "name": "Token issuance",
+        "detail": "FAIR token is issued on the TRON network for decentralized governance. It is a token circulating within the FAIR ecosystem and reflects the value of the FAIR ecosystem. It can be used for consumption, guarantee, tipping, gifting, and more."
+      },
+      {
+        "name": "Token allocation",
+        "detail": "The maximum supply of FAIR tokens is 1000000000000. The tokens will be deposited into dedicated accounts, which will be publicly displayed on the official website. The allocation ratio is biased towards the foundation and ecological participants, providing a strong guarantee for the long-term sustainable and healthy development of DAO, allowing contributors and ecological participants to jointly promote the development of the blockchain industry< Early contributors 20%<br/>FAIR Sustainable Development Plan 50%<br/>Airdrop Plan 30%<br/>"
+      },
+      {
+        "name": "Compliance and User Restrictions",
+        "detail": "FAIR token aims to promote the open and inclusive development of the blockchain ecosystem, and must comply with specific laws and regulatory guidelines. To ensure legality and compliance, users from the United States and any country sanctioned by the Office of Foreign Assets Control (OFAC) of the US Treasury Department are currently prohibited from accessing FAIR DAO and FAIR tokens. These measures are all aimed at creating a safe and reliable environment for the FAIR DAO ecosystem, while reflecting the core values that drive inclusivity and innovation in the blockchain industry."
+      },
+      {
+        "name": "Governance Discussion",
+        "detail": "Proposals and votes can be initiated for ideas that receive widespread support from the community. Community members can initiate preliminary proposals or discussions and have the opportunity to enter the formal FAIR DAO voting process. Preliminary evaluation or voting on proposals may not necessarily be implemented. The implementation of the proposal requires the support of the development team and is ultimately deployed by the administrator."
+      },
+      {
+        "name": "Disclaimers",
+        "detail": "FAIR DAO is a decentralized autonomous organization composed of all FAIR token holders. FAIR DAO is not a legal entity and is not intended for centralized management of FAIR token supply. FAIR tokens do not have inherent utility prior to issuance, however, in future FAIR DAO governance, token holders may forcibly assign utility to tokens through voting. There is no predetermined roadmap for the intrinsic value of FAIR tokens. FAIR tokens do not represent any demand for any real-world or financial assets, nor do they provide or guarantee any return value. FAIR token holders should not expect any such requirements or returns. FAIR tokens have no essential difference from typical meme coins, as they have no inherent value, intrinsic value, or investment value."
+      }
+    ]
   }
 }

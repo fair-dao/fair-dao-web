@@ -15,19 +15,37 @@
 <body>
     <div>
         <div id="header"></div>
-        <div class="body">
+        <div class="body whitepaper">
             <div style="padding:1rem;">
                 <article class="message is-link">
-                    <div class="message-header">
-                        <p data-bind="page-title"></p>
-                    </div>
                     <div class="message-body" data-bind="page-description">
                     </div>
                 </article>
             </div>
-
-            <main class="main-content">
-            </main>
+            <div class="items">
+                <div class="item">
+                    <div class="item-title is-size-4" data-bind="openContactList"></div>
+                    <div class="item-des">
+                        <p>FAIR Coin: TEpwhQEzPD6GgXjtiPmCxvD8RJZnc4NNh1 </p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="item-title is-size-4" data-bind="initTokenInfo"></div>
+                    <div class="item-des">
+                        <p><span data-bind="earlyContributors"></span>: TPSx5akDxNgWUPhfza9bwRdutbzEDgFair </p>
+                        <p><span data-bind="sustainableDevPlan"></span>: TRo39aqrbZAcqqXLdZwLSwaDScc8CMFair </p>
+                        <p><span data-bind="airdropPlan"></span>: TRmenLrWiSsQSfqL8NXBXZZXWrpSAgFair </p>
+                    </div>
+                </div>
+            </div>
+            <div class="items" data-bind-for="items">
+                <div class="item">
+                    <div class="item-title is-size-4">{{items.name}}</div>
+                    <div class="item-des">
+                        {{items.detail}}
+                    </div>
+                </div>
+            </div>
         </div>
         <footer id="footer" class="footer">
         </footer>
