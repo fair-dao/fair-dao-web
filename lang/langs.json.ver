@@ -54,6 +54,11 @@
       "DstLang": "fr",
       "DstVer": "1a65",
       "SrcVer": "bf1c"
+    },
+    "2f501b77c29786b25fe35d78e65a2a42": {
+      "DstLang": "ru",
+      "DstVer": "1167e787a81a5549bc895f4c61dcba4b",
+      "SrcVer": "95b351c86267f3aedf89520959bce689"
     }
   },
   "WarnPairs": {
@@ -706,6 +711,16 @@
       "DstLang": "ja",
       "DstVer": "3ea42a110a3e52869e617f66dca04b4c",
       "SrcVer": "8e0847fd99034ffce2f20dfedc2dc97e"
+    },
+    "f010a9627e32fd5898be18d619a0905f": {
+      "DstLang": "ja",
+      "DstVer": "c3f98ff62dd77df4616a0cb4aa5a6bab",
+      "SrcVer": "134487111d36bd87a5966a129034de5d"
+    },
+    "4e5043ced3a23413bea8cd8b5272f3c8": {
+      "DstLang": "ja",
+      "DstVer": "368f372145600fc55b7c2fd1770c13ce",
+      "SrcVer": "f9f44528183482c030ab9e103877ea0f"
     }
   }
 }
